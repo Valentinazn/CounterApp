@@ -12,11 +12,12 @@ This is a simple counter application( but really cute ). I made it, as a project
 
 ## Screenshot
 
-![Screenshot (11)]
+![Screenshot (82)](https://user-images.githubusercontent.com/85753606/173771470-581ee5ac-f4eb-4b80-a795-6fe8cedf102d.png)
 
 
 
-See my work:  [Counter app]
+
+See my work:
 
 
 
