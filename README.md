@@ -17,7 +17,7 @@ This is a simple counter application( but really cute ). I made it, as a project
 
 
 
-See my work:
+See my work: https://valentinazn.github.io/CounterApp/
 
 
 
